@@ -458,7 +458,7 @@ button {
   outline: none;
 }
 
-.cta-form > input[type="button"] {
+.cta-form > input[type="submit"] {
   width: 151px;
   margin-left: 10px;
   background-color: #000000;
